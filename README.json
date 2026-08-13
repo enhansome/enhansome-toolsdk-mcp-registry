@@ -1,0 +1,781 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting Started"
+    },
+    {
+      "description": "Deploy your own private MCP Gateway & Registry in minutes. This provides the full feature set: Federated Search, Remote Execution, Sandbox, and OAuth.",
+      "items": [],
+      "title": "Deploy Enterprise Gateway (Recommended)"
+    },
+    {
+      "description": "Execute any MCP tool via HTTP API - perfect for AI automation, chatbot integrations, and serverless deployments:",
+      "items": [],
+      "title": "🌐 Remote Tool Execution Example"
+    },
+    {
+      "description": "If you only need to access the list of MCP servers programmatically (without execution or gateway features), you can use the NPM package.",
+      "items": [],
+      "title": "Alternative: Use as Registry SDK (Data Only)"
+    },
+    {
+      "description": "Perfect for building your own directory or analysis tools:",
+      "items": [],
+      "title": "Usage"
+    },
+    {
+      "description": "Fetch the complete MCP server registry programmatically:",
+      "items": [],
+      "title": "Access via Public API (No Installation Required)"
+    },
+    {
+      "description": "ToolSDK MCP Registry is an enterprise-grade gateway for Model Context Protocol (MCP) servers. It solves the challenge of securely discovering and executing AI tools in production environments.",
+      "items": [],
+      "title": "Why ToolSDK MCP Registry?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture"
+    },
+    {
+      "description": "Some packages in this registry are marked as .",
+      "items": [],
+      "title": "✅ Validated Packages = One-Line Integration (ToolSDK)"
+    },
+    {
+      "description": "4547+ AI Agent Tools, LLM Integrations & Automation Servers\nBrowse by category: Developer Tools, AI Agents, Databases, Cloud Platforms, APIs, and more!\n\nTools that haven’t been sorted into a category yet. AI will categorize it later.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/dev-ohmyposh-validator",
+          "description": "Validate oh-my-posh configurations and segment snippets against the official schema. (2 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:05:59Z",
+            "owner": "JanDeDobbeleer",
+            "repo": "oh-my-posh",
+            "stars": 23269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/exa",
+          "description": "Fast, intelligent web search and web crawling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T18:58:45Z",
+            "owner": "exa-labs",
+            "repo": "exa-mcp-server",
+            "stars": 4862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @antv/mcp-server-chart",
+          "description": "A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis. (25 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-06T07:58:59Z",
+            "owner": "antvis",
+            "repo": "mcp-server-chart",
+            "stars": 4307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/com-cloudflare-mcp-mcp",
+          "description": "Cloudflare MCP servers (2 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T11:45:57Z",
+            "owner": "cloudflare",
+            "repo": "mcp-server-cloudflare",
+            "stars": 4065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @browserbasehq/mcp-server-browserbase",
+          "description": "MCP server for AI web browser automation using Browserbase and Stagehand (9 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T21:48:14Z",
+            "owner": "browserbase",
+            "repo": "mcp-server-browserbase",
+            "stars": 3411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/com-microsoft-microsoft-learn-mcp",
+          "description": "Official Microsoft Learn MCP Server – real-time, trusted docs & code samples for AI and LLMs. (3 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:00:41Z",
+            "owner": "MicrosoftDocs",
+            "repo": "mcp",
+            "stars": 1832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @tigerdata/pg-aiguide",
+          "description": "Comprehensive PostgreSQL documentation and best practices, including ecosystem tools (3 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T19:47:09Z",
+            "owner": "timescale",
+            "repo": "pg-aiguide",
+            "stars": 1811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @delorenj/mcp-server-trello",
+          "description": "MCP server for Trello boards with rate limiting, type safety, and comprehensive API integration. (34 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T05:52:57Z",
+            "owner": "delorenj",
+            "repo": "mcp-server-trello",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @f2c/mcp",
+          "description": "Bridges Figma design files to code generation, enabling direct conversion of designs into HTML, CSS, and other assets with customizable output paths and file organization. (2 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-27T03:13:33Z",
+            "owner": "f2c-ai",
+            "repo": "f2c-mcp",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @shodh/memory-mcp",
+          "description": "Persistent AI memory with semantic search. Store and recall context across sessions. (10 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T11:27:13Z",
+            "owner": "varun29ankuS",
+            "repo": "shodh-memory",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @browserstack/mcp-server",
+          "description": "Integrates with BrowserStack's testing infrastructure to enable automated and manual testing across browsers, devices, and platforms for debugging cross-browser issues and verifying mobile app functionality. (20 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:19:08Z",
+            "owner": "browserstack",
+            "repo": "mcp-server",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @cyanheads/pubmed-mcp-server",
+          "description": "Enables AI systems to search, retrieve, and analyze biomedical literature from PubMed for evidence-based research, citation generation, and data visualization (5 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T18:07:32Z",
+            "owner": "cyanheads",
+            "repo": "pubmed-mcp-server",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @professional-wiki/mediawiki-mcp-server",
+          "description": "Integrates with MediaWiki instances through REST API to enable searching pages, retrieving content in multiple formats, accessing file information, viewing revision history, and performing authenticated operations like creating and updating pages with automatic wiki discovery and dynamic configuration management. (7 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:24:21Z",
+            "owner": "ProfessionalWiki",
+            "repo": "MediaWiki-MCP-Server",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @microsoft/clarity-mcp-server",
+          "description": "Enables AI to fetch and analyze Microsoft Clarity website analytics data including metrics like scroll depth, engagement time, and traffic with filtering by browser, device, and country. (1 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-24T14:02:49Z",
+            "owner": "microsoft",
+            "repo": "clarity-mcp-server",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @portel/ncp",
+          "description": "N-to-1 MCP Orchestration. Unified gateway for multiple MCP servers with intelligent tool discovery. (2 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-12T01:39:06Z",
+            "owner": "portel-dev",
+            "repo": "ncp",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @atlassian-dc-mcp/bitbucket",
+          "description": "MCP server for Atlassian Bitbucket Data Center - interact with repositories and code (9 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T11:02:54Z",
+            "owner": "b1ff",
+            "repo": "atlassian-dc-mcp",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @atlassian-dc-mcp/jira",
+          "description": "MCP server for Atlassian Jira Data Center - search, view, and create issues (6 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T11:02:54Z",
+            "owner": "b1ff",
+            "repo": "atlassian-dc-mcp",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @bankless/onchain-mcp",
+          "description": "Integrates with blockchain networks to enable smart contract interaction, transaction history access, and on-chain data exploration through specialized tools for reading contract state, retrieving ABIs, and filtering event logs. (10 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-05T11:48:39Z",
+            "owner": "Bankless",
+            "repo": "onchain-mcp",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @mzxrai/mcp-openai",
+          "description": "Generate text using OpenAI's language models. (1 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-06T18:15:23Z",
+            "owner": "mzxrai",
+            "repo": "mcp-openai",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/com-sonatype-dependency-management-mcp-server",
+          "description": "Sonatype component intelligence: versions, security analysis, and Trust Score recommendations (3 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-14T21:43:45Z",
+            "owner": "sonatype",
+            "repo": "dependency-management-mcp-server",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @ivotoby/contentful-management-mcp-server",
+          "description": "Integrate with Contentful's Content Management API for CMS management. (40 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-17T16:45:28Z",
+            "owner": "ivo-toby",
+            "repo": "contentful-mcp",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @bnb-chain/mcp",
+          "description": "Enables direct interaction with BNB Chain and other EVM-compatible networks for blockchain operations including block exploration, smart contract interaction, token management, wallet operations, and Greenfield storage functionality. (40 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-17T01:56:00Z",
+            "owner": "bnb-chain",
+            "repo": "bnbchain-mcp",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @mapbox/mcp-devkit-server",
+          "description": "Provides AI assistants with direct access to Mapbox developer APIs and documentation. (17 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:18:01Z",
+            "owner": "mapbox",
+            "repo": "mcp-devkit-server",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/dev-promplate-hmr",
+          "description": "Docs for hot-module-reload and reactive programming for Python ( on PyPI) (3 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:53:12Z",
+            "owner": "promplate",
+            "repo": "hmr",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @smartbear/mcp",
+          "description": "MCP server for AI access to SmartBear tools, including BugSnag, Reflect, Swagger, PactFlow. (67 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:28:06Z",
+            "owner": "SmartBear",
+            "repo": "smartbear-mcp",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @decodo/mcp-server",
+          "description": "Enable your AI agents to scrape and parse web content dynamically, including geo-restricted sites (5 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T10:09:24Z",
+            "owner": "Decodo",
+            "repo": "mcp-server",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @pubnub/mcp",
+          "description": "Enables AI assistants to interact with PubNub's realtime communication platform for retrieving documentation, accessing SDK information, and utilizing messaging APIs without leaving their conversation context. (11 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T13:33:03Z",
+            "owner": "pubnub",
+            "repo": "pubnub-mcp-server",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @connorbritain/mssql-mcp-server",
+          "description": "MCP server for Microsoft SQL Server - schema discovery, profiling, and safe data operations (20 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T21:36:17Z",
+            "owner": "ConnorBritain",
+            "repo": "mssql-mcp-server",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @kirbah/mcp-youtube",
+          "description": "YouTube MCP server for token-optimized, structured data using the YouTube Data API v3. (9 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:17:12Z",
+            "owner": "kirbah",
+            "repo": "mcp-youtube",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @localstack/localstack-mcp-server",
+          "description": "A LocalStack MCP Server providing essential tools for local cloud development & testing (8 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:55:06Z",
+            "owner": "localstack",
+            "repo": "localstack-mcp-server",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @mfukushim/map-traveler-mcp",
+          "description": "Integrates with Google Maps to create virtual travel experiences where users can navigate real-world routes with customizable avatars, discover nearby facilities, and share journeys on Bluesky. (8 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T13:32:59Z",
+            "owner": "mfukushim",
+            "repo": "map-traveler-mcp",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @noditlabs/nodit-mcp-server",
+          "description": "Provides blockchain context through Nodit's APIs, enabling real-time interaction with multiple protocols including Ethereum, Polygon, and Aptos for token information and on-chain activity analysis. (9 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-23T07:35:36Z",
+            "owner": "noditlabs",
+            "repo": "nodit-mcp-server",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @flightradar24/fr24api-mcp",
+          "description": "MCP server providing access to the Flightradar24 API for real-time and historical flight data (15 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-22T10:17:47Z",
+            "owner": "Flightradar24",
+            "repo": "fr24api-mcp",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @configcat/mcp-server",
+          "description": "Enables AI agents to interact with ConfigCat, a feature flag service for teams. (77 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:11:20Z",
+            "owner": "configcat",
+            "repo": "mcp-server",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @glifxyz/mymcpspace-mcp-server",
+          "description": "Enables AI interaction with MyMCPSpace social media platform for creating posts, replying to content, toggling likes, retrieving feed data, and updating usernames through authenticated API communication. (5 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-04-09T12:20:45Z",
+            "owner": "glifxyz",
+            "repo": "mymcpspace-mcp-server",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @sumup/mcp",
+          "description": "Tools to explore SumUp accounts, payments, customers, and payouts. (49 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T00:37:41Z",
+            "owner": "sumup",
+            "repo": "sumup-ai",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @gonetone/mcp-server-taiwan-weather",
+          "description": "用於取得臺灣中央氣象署 API 資料的 Model Context Protocol (MCP) Server (1 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-21T08:52:41Z",
+            "owner": "GoneTone",
+            "repo": "mcp-server-taiwan-weather",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @dubuqingfeng/gitlab-mcp-server",
+          "description": "GitLab MCP (Model Context Protocol) server for AI agents (13 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-10T01:24:05Z",
+            "owner": "dubuqingfeng",
+            "repo": "gitlab-mcp-server",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @kontent-ai/mcp-server",
+          "description": "Connect to Kontent.ai to manage content, types, taxonomies, and workflows via natural language (40 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:16:11Z",
+            "owner": "kontent-ai",
+            "repo": "mcp-server",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @shopana/novaposhta-mcp-server",
+          "description": "MCP Server for Nova Poshta API integration with AI assistants (50 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-23T08:21:30Z",
+            "owner": "shopanaio",
+            "repo": "carrier-api",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @tigerdata/tiger-skills-mcp-server",
+          "description": "Provider agnostic skills implementation, with skills sourced from local paths or GitHub repositories (1 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T10:14:52Z",
+            "owner": "timescale",
+            "repo": "tiger-skills-mcp-server",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @koki-develop/esa-mcp-server",
+          "description": "A Model Context Protocol (MCP) server for esa.io (10 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-09-18T07:46:21Z",
+            "owner": "koki-develop",
+            "repo": "esa-mcp-server",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @index9/mcp",
+          "description": "Real-time model intelligence for your AI assistant. (3 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T22:33:56Z",
+            "owner": "index9-org",
+            "repo": "mcp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @mehmetsenol/gorev-mcp-server",
+          "description": "Task management system for AI assistants with MCP protocol, templates, and bilingual support (TR/EN) (41 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-11T20:05:38Z",
+            "owner": "msenol",
+            "repo": "Gorev",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @dinesh-nalla-se/playwright-mcp",
+          "description": "Playwright Tools for MCP (22 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-14T20:24:28Z",
+            "owner": "dinesh-nalla-se",
+            "repo": "playwright-mcp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @symbioticsec/symbiotic-mcp-server",
+          "description": "Symbiotic CLI MCP Server for security scanning and analysis (4 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T13:46:17Z",
+            "owner": "SymbioticSec",
+            "repo": "mcp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/com-wallet-connectors-wallet-verifier-mcp",
+          "description": "MCP server for verifying EUDI/Talao wallet data via OIDC4VP (pull) for AI agents. (2 tools) (node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T08:02:14Z",
+            "owner": "TalaoDAO",
+            "repo": "connectors",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @duongkhuong/mcp-backlog",
+          "description": "MCP server for Backlog API integration with AI agents. (37 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @duongkhuong/mcp-redmine",
+          "description": "MCP server for Redmine API integration with AI agents. (14 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @incodetech/incode-idv-mcp",
+          "description": "MCP server for Incode IDV, providing identity verification tools for AI assistants. (5 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @kekwanulabs/syncline-mcp-server",
+          "description": "Syncline MCP Server (TypeScript) - AI-powered meeting scheduling with intelligent auto-scheduling (4 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @letta-ai/memory-mcp",
+          "description": "MCP server for AI memory management using Letta - Standard MCP format (5 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @moralisweb3/api-mcp-server",
+          "description": "Integrates with Moralis Web3 API to enable blockchain data access, token analysis, and smart contract interactions without requiring deep Web3 development knowledge (93 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @picahq/mcp",
+          "description": "A Model Context Protocol Server for Pica (4 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @studious-xiaoyu/oracle-link",
+          "description": "Oracle MCP Query Server (Node.js) - Read-only SELECT via MCP (3 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/com-mermaidchart-mermaid-mcp",
+          "description": "MCP server for Mermaid diagram validation and rendering (2 tools) (node)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "✅ @toolsdk-remote/com-redpanda-docs-mcp",
+          "description": "Get authoritative answers to questions about Redpanda. (1 tools) (node)",
+          "children": []
+        }
+      ],
+      "title": "MCP Servers Directory"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:38:25.150Z",
+    "original_repository": "toolsdk-ai/toolsdk-mcp-registry",
+    "original_repository_sha": "fc05da816832154423ce09328f31ce327e90795e",
+    "enhanced_repository": "enhansome/enhansome-toolsdk-mcp-registry",
+    "enhanced_repository_description": null,
+    "title": "Awesome ToolSDK MCP Registry with stars"
+  }
+}
