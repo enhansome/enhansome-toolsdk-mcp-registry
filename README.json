@@ -59,7 +59,7 @@
             "last_commit": "2026-08-12T21:05:59Z",
             "owner": "JanDeDobbeleer",
             "repo": "oh-my-posh",
-            "stars": 23270
+            "stars": 23275
           }
         },
         {
@@ -73,7 +73,7 @@
             "last_commit": "2026-08-10T18:58:45Z",
             "owner": "exa-labs",
             "repo": "exa-mcp-server",
-            "stars": 4864
+            "stars": 4867
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-05-06T07:58:59Z",
             "owner": "antvis",
             "repo": "mcp-server-chart",
-            "stars": 4309
+            "stars": 4312
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-11T11:45:57Z",
             "owner": "cloudflare",
             "repo": "mcp-server-cloudflare",
-            "stars": 4067
+            "stars": 4073
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-12T20:00:41Z",
             "owner": "MicrosoftDocs",
             "repo": "mcp",
-            "stars": 1832
+            "stars": 1835
           }
         },
         {
@@ -182,10 +182,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T10:36:19Z",
+            "last_commit": "2026-08-14T09:53:35Z",
             "owner": "varun29ankuS",
             "repo": "shodh-memory",
-            "stars": 268
+            "stars": 272
           }
         },
         {
@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T14:19:08Z",
+            "last_commit": "2026-08-13T18:06:29Z",
             "owner": "browserstack",
             "repo": "mcp-server",
             "stars": 149
@@ -224,7 +224,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:24:21Z",
+            "last_commit": "2026-08-13T17:06:24Z",
             "owner": "ProfessionalWiki",
             "repo": "MediaWiki-MCP-Server",
             "stars": 119
@@ -364,7 +364,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:18:01Z",
+            "last_commit": "2026-08-14T04:01:37Z",
             "owner": "mapbox",
             "repo": "mcp-devkit-server",
             "stars": 59
@@ -392,7 +392,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T08:50:36Z",
+            "last_commit": "2026-08-14T06:07:03Z",
             "owner": "SmartBear",
             "repo": "smartbear-mcp",
             "stars": 43
@@ -437,7 +437,7 @@
             "last_commit": "2026-08-04T21:36:17Z",
             "owner": "ConnorBritain",
             "repo": "mssql-mcp-server",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-01-22T10:17:47Z",
             "owner": "Flightradar24",
             "repo": "fr24api-mcp",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -563,7 +563,7 @@
             "last_commit": "2025-09-21T08:52:41Z",
             "owner": "GoneTone",
             "repo": "mcp-server-taiwan-weather",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:09:05.396Z",
+    "last_updated": "2026-08-14T11:06:49.604Z",
     "original_repository": "toolsdk-ai/toolsdk-mcp-registry",
     "original_repository_sha": "fc05da816832154423ce09328f31ce327e90795e",
     "enhanced_repository": "enhansome/enhansome-toolsdk-mcp-registry",
