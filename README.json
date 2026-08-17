@@ -56,10 +56,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T21:05:59Z",
+            "last_commit": "2026-08-17T08:41:14Z",
             "owner": "JanDeDobbeleer",
             "repo": "oh-my-posh",
-            "stars": 23285
+            "stars": 23291
           }
         },
         {
@@ -70,10 +70,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T18:58:45Z",
+            "last_commit": "2026-08-17T00:11:51Z",
             "owner": "exa-labs",
             "repo": "exa-mcp-server",
-            "stars": 4876
+            "stars": 4878
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-05-06T07:58:59Z",
             "owner": "antvis",
             "repo": "mcp-server-chart",
-            "stars": 4315
+            "stars": 4318
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-11T11:45:57Z",
             "owner": "cloudflare",
             "repo": "mcp-server-cloudflare",
-            "stars": 4077
+            "stars": 4082
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-12T20:00:41Z",
             "owner": "MicrosoftDocs",
             "repo": "mcp",
-            "stars": 1838
+            "stars": 1839
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-04T05:52:57Z",
             "owner": "delorenj",
             "repo": "mcp-server-trello",
-            "stars": 432
+            "stars": 431
           }
         },
         {
@@ -182,7 +182,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T13:28:33Z",
+            "last_commit": "2026-08-17T03:17:08Z",
             "owner": "varun29ankuS",
             "repo": "shodh-memory",
             "stars": 272
@@ -269,7 +269,7 @@
             "last_commit": "2026-07-26T11:02:54Z",
             "owner": "b1ff",
             "repo": "atlassian-dc-mcp",
-            "stars": 87
+            "stars": 89
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-07-26T11:02:54Z",
             "owner": "b1ff",
             "repo": "atlassian-dc-mcp",
-            "stars": 87
+            "stars": 89
           }
         },
         {
@@ -378,7 +378,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T08:53:12Z",
+            "last_commit": "2026-08-17T08:53:58Z",
             "owner": "promplate",
             "repo": "hmr",
             "stars": 58
@@ -392,7 +392,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:46:37Z",
+            "last_commit": "2026-08-17T09:19:09Z",
             "owner": "SmartBear",
             "repo": "smartbear-mcp",
             "stars": 43
@@ -448,7 +448,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:17:12Z",
+            "last_commit": "2026-08-16T19:19:30Z",
             "owner": "kirbah",
             "repo": "mcp-youtube",
             "stars": 28
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:35:29.158Z",
+    "last_updated": "2026-08-17T10:45:30.874Z",
     "original_repository": "toolsdk-ai/toolsdk-mcp-registry",
     "original_repository_sha": "fc05da816832154423ce09328f31ce327e90795e",
     "enhanced_repository": "enhansome/enhansome-toolsdk-mcp-registry",
