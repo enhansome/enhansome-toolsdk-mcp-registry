@@ -56,10 +56,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:41:14Z",
+            "last_commit": "2026-08-18T00:08:22Z",
             "owner": "JanDeDobbeleer",
             "repo": "oh-my-posh",
-            "stars": 23291
+            "stars": 23300
           }
         },
         {
@@ -70,10 +70,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T00:11:51Z",
+            "last_commit": "2026-08-17T21:36:18Z",
             "owner": "exa-labs",
             "repo": "exa-mcp-server",
-            "stars": 4878
+            "stars": 4883
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-05-06T07:58:59Z",
             "owner": "antvis",
             "repo": "mcp-server-chart",
-            "stars": 4318
+            "stars": 4319
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-11T11:45:57Z",
             "owner": "cloudflare",
             "repo": "mcp-server-cloudflare",
-            "stars": 4082
+            "stars": 4088
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-12T20:00:41Z",
             "owner": "MicrosoftDocs",
             "repo": "mcp",
-            "stars": 1839
+            "stars": 1841
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-06-26T19:47:09Z",
             "owner": "timescale",
             "repo": "pg-aiguide",
-            "stars": 1814
+            "stars": 1815
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-17T03:17:08Z",
             "owner": "varun29ankuS",
             "repo": "shodh-memory",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T18:06:29Z",
+            "last_commit": "2026-08-17T19:28:02Z",
             "owner": "browserstack",
             "repo": "mcp-server",
             "stars": 150
@@ -269,7 +269,7 @@
             "last_commit": "2026-07-26T11:02:54Z",
             "owner": "b1ff",
             "repo": "atlassian-dc-mcp",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-07-26T11:02:54Z",
             "owner": "b1ff",
             "repo": "atlassian-dc-mcp",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -392,7 +392,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:19:09Z",
+            "last_commit": "2026-08-18T10:25:42Z",
             "owner": "SmartBear",
             "repo": "smartbear-mcp",
             "stars": 43
@@ -588,7 +588,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:16:11Z",
+            "last_commit": "2026-08-18T07:19:08Z",
             "owner": "kontent-ai",
             "repo": "mcp-server",
             "stars": 9
@@ -602,7 +602,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2025-11-23T08:21:30Z",
+            "last_commit": "2026-08-18T07:25:00Z",
             "owner": "shopanaio",
             "repo": "carrier-api",
             "stars": 7
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:45:30.874Z",
+    "last_updated": "2026-08-18T10:42:18.903Z",
     "original_repository": "toolsdk-ai/toolsdk-mcp-registry",
     "original_repository_sha": "fc05da816832154423ce09328f31ce327e90795e",
     "enhanced_repository": "enhansome/enhansome-toolsdk-mcp-registry",
